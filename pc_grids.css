@@ -57,5 +57,11 @@ div.col-3-4 {
 
 
 
-
 /* Grid Outline Styles */
+
+
+
+/* Delete */
+div {
+    outline: medium solid red;
+}
